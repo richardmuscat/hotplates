@@ -29,6 +29,7 @@ We've not had any questions frequently asked.
 == Screenshots ==
 
 1. Hot Plates interface
+2. Sample notification bar
 
 == Changelog ==
 
