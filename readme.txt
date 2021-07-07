@@ -39,4 +39,4 @@ Ta da.
 == Upgrade Notice ==
 
 = 1.0 =
-Upgrade notices describe the reason a user should upgrade.  No more than 300 characters.
+Version 1.0
